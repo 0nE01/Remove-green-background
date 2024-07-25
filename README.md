@@ -1,4 +1,4 @@
-# Remove Greenscreen
+# Remove Green Background 🟩
 
 ### Have you ever wondered how editors remove green backgrounds from their green screen videos? Lucky for you, you found this repo that is  going to teach you how to remove green backgrounds from your images/vidoes using opencv. ✨
  
